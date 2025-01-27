@@ -1,6 +1,6 @@
 # Casinov1
 
-Admin podaci 
+Admin podaci:
 adminadmin@example.com
 password 
 
